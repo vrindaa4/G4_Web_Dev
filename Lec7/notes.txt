@@ -1,0 +1,10 @@
+what is dom?
+what is event 
+
+DOM - document object model
+//heirarchial order 
+// dom manipulations
+
+
+event capturing and bubbling 
+Event 
